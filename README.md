@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rbimm/bimm-repository)
+
 <!--- STARTEXCLUDE --->
 # Getting Started with Apache Cassandra™ and Python using DataStax Astra
 *50 minutes, Intermediate, [Start Building](https://github.com/DataStax-Examples/getting-started-with-astra-python#prerequisites)*
